@@ -1,7 +1,6 @@
 # Discord Bot
 * [Instruction](#instruction)
 * [Features](#features)
-* [Implementation in the future](#implementation-in-the-future)
 
 
 ## Instruction
@@ -34,12 +33,6 @@
     * Get the hot or top 5 articles
     * Command: !reddit, !reddit [args], !reddit top, !reddit hot, !reddit list
 3. Easy build with docker
-
----
-## Implementation in the future
-* Maybe add the lotto system
-* Help
-    * Give more information
 
 ---
 ## Reference
